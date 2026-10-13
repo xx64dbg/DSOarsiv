@@ -1,0 +1,410 @@
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+  Company:         Bigpoint GmbH
+  App Title:       Drakensang Online Client
+  App ID:          DSOClient
+  App Version:     release261_188_64b
+  App Timestamp:   Sep 29 2026 17:17:48
+  Local Date/Time: Wed Oct  7 18:35:50 2026 
+
+
+Wed Oct  7 18:35:53 2026 [WARNING] FactoryManager::ParseBluePrints(): Property Properties::SequencerCameraProperty doesn't exist in class registry?
+Wed Oct  7 18:35:53 2026 [WARNING] FactoryManager::ParseBluePrints(): Property InGameEditing::LevelEditorWaypointProperty doesn't exist in class registry?
+Wed Oct  7 18:35:53 2026 [WARNING] FactoryManager::ParseBluePrints(): Property Properties::PathCalculationProperty doesn't exist in class registry?
+Wed Oct  7 18:35:56 2026 [WARNING] Client activity signin manager activated
+Wed Oct  7 18:35:56 2026 [WARNING] Client activity signin manager activated
+Wed Oct  7 18:36:01 2026 [WARNING] CombatText::CombatTextTypeFromString(): Invalid CombatTextType string passed!
+Wed Oct  7 18:36:01 2026 [WARNING] D3D9MouseRenderDevice::InternalUpdateMouseCursor - Texture not loaded.
+Wed Oct  7 18:36:01 2026 [WARNING] D3D9MouseRenderDevice::InternalUpdateMouseCursor - Texture not loaded.
+Wed Oct  7 18:36:01 2026 [WARNING] D3D9MouseRenderDevice::InternalUpdateMouseCursor - Texture not loaded.
+Wed Oct  7 18:36:01 2026 [WARNING] D3D9MouseRenderDevice::InternalUpdateMouseCursor - Texture not loaded.
+Wed Oct  7 18:36:02 2026 [WARNING] InternalPathEngineServer::Load: loading paths disabled!
+Wed Oct  7 18:36:06 2026 [WARNING] StagingSystem::EventTypeFromString: Invalid event type PlayerFightingCapabilityScoreChanged
+Wed Oct  7 18:36:06 2026 [WARNING] [S4_ICE_DIAG][CLIENT_ENABLED] client bullet diagnostics enabled for minionskill_fp_buff_s4_ice_shot
+Wed Oct  7 18:36:06 2026 [WARNING] Client activity signin manager started
+Wed Oct  7 18:46:39 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/general/ui_click" was triggered, but no EventDescription was found for it!
+Wed Oct  7 18:46:46 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/char_gen/ui_char_gen_generate_warrior_male" was triggered, but no EventDescription was found for it!
+Wed Oct  7 18:46:48 2026 [WARNING] InternalPathEngineServer::Load: loading paths disabled!
+Wed Oct  7 18:46:48 2026 [WARNING] StagingSystem::EventTypeFromString: Invalid event type PlayerFightingCapabilityScoreChanged
+Wed Oct  7 18:46:48 2026 [WARNING] [S4_ICE_DIAG][CLIENT_ENABLED] client bullet diagnostics enabled for minionskill_fp_buff_s4_ice_shot
+Wed Oct  7 18:46:48 2026 [WARNING] Client activity signin manager started
+Wed Oct  7 18:46:50 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/general/ui_open_screen" was triggered, but no EventDescription was found for it!
+Wed Oct  7 18:46:50 2026 [WARNING] GamePlayer::OnEquipedItem(): Unhandled case for item category 'Weapon'! Player has unexpected armament state (5)!
+Wed Oct  7 18:46:51 2026 [WARNING] ClientGameWorld::UpdateExitState() exit entity with name 'a0006_grimford_hub_exit_to_a0009_fortress_01_dun' not found!
+Wed Oct  7 18:46:51 2026 [WARNING] A signin calendar command created
+Wed Oct  7 18:46:51 2026 [WARNING] ActivitySigninCanlendar decoding
+Wed Oct  7 18:46:51 2026 [WARNING] 1 line(s) of extra bonus receivedWed Oct  7 18:46:51 2026 [WARNING] 
+Wed Oct  7 18:46:51 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:46:51 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:46:51 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket7' is locked
+Wed Oct  7 18:46:51 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket6' is locked
+Wed Oct  7 18:46:51 2026 [WARNING] LocationMapManager::SetupNewEntities(): could not create a map icon for travel point dummy_travelpoint!
+Wed Oct  7 18:46:51 2026 [WARNING] BinaryTableReader::LookupTableEntry(): no entries for column 'mercenary_shadow_stalker', row 'hit_and_run'
+Wed Oct  7 18:46:51 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:46:51 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:46:51 2026 [WARNING] BinaryTableReader::LookupTableEntry(): no entries for column 'mercenary_ancient_watcher', row 'hit_and_run'
+Wed Oct  7 18:46:52 2026 [WARNING] IoChannelHandler: failed to open stream 'httpnz://alicdn-prod-774.drakensang.com/cdndata/export_win32/textures/weapons_ranger/unique_ranger_rh_longbow_anniversary_011_bump.dds' for reading!
+Wed Oct  7 18:46:55 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:46:55 2026 [WARNING] Failed to load resource 'tex:weapons_ranger/unique_ranger_rh_longbow_anniversary_011_bump.dds#c'!
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=128, dstY=128, width=256, height=128, srcMipWidth=256, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=64, dstY=64, width=128, height=64, srcMipWidth=128, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=32, dstY=32, width=64, height=32, srcMipWidth=64, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=16, dstY=16, width=32, height=16, srcMipWidth=32, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=8, dstY=8, width=16, height=8, srcMipWidth=16, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=4, dstY=4, width=8, height=4, srcMipWidth=8, srcMipHeight=4, dstMipWidth=8, dstMipHeight=8) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:46:55 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133943) is not alive or cannot receive status effects!
+Wed Oct  7 18:46:55 2026 [WARNING] BinaryTableReader::LookupTableEntry(): no entries for column 'mercenary_viridis', row 'hit_and_run'
+Wed Oct  7 18:46:59 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (133944) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:06 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:47:06 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:47:06 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:47:06 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:47:11 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:47:11 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:47:11 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:47:12 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133946) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:14 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133952 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:47:14 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133952 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:47:14 2026 [WARNING] BinaryTableReader::LookupTableEntry(): no entries for column 'mercenary_ember_knight_kain', row 'hit_and_run'
+Wed Oct  7 18:47:14 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133951) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:14 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (133952) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:14 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:47:14 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:14 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:14 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:14 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:14 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:47:15 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:15 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133939) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:19 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (133954) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:21 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/quickslot/ui_cooldown_consumable" was triggered, but no EventDescription was found for it!
+Wed Oct  7 18:47:30 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133956) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:33 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133948) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:40 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:40 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:47:42 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133963 | effects: (+)mercenary_viridis_bless_aura_effect_trig)!
+Wed Oct  7 18:47:42 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133963 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:47:42 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133963 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:47:42 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (133963) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133963 | effects: (-)Death)!
+Wed Oct  7 18:47:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133963 | effects: (-)Death)!
+Wed Oct  7 18:47:45 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (133961) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:46 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133966) is not alive or cannot receive status effects!
+Wed Oct  7 18:47:46 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=128, dstY=160, width=256, height=128, srcMipWidth=256, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:47:46 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=64, dstY=80, width=128, height=64, srcMipWidth=128, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:47:46 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=32, dstY=40, width=64, height=32, srcMipWidth=64, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:47:46 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=16, dstY=20, width=32, height=16, srcMipWidth=32, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:02 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133971) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:02 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:07 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (133972) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:11 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133974 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:48:11 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133974 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:48:11 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (133974) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:13 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133974 | effects: (-)Death)!
+Wed Oct  7 18:48:13 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133974 | effects: (-)Death)!
+Wed Oct  7 18:48:19 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133975 | effects: (#)item_unique_all_belt_premium)!
+Wed Oct  7 18:48:19 2026 [WARNING] IoChannelHandler: failed to open stream 'httpnz://alicdn-prod-774.drakensang.com/cdndata/export_win32/textures/mounts/mount_easter_egg_01_emsv.dds' for reading!
+Wed Oct  7 18:48:19 2026 [WARNING] Failed to load resource 'tex:mounts/mount_easter_egg_01_emsv.dds'!
+Wed Oct  7 18:48:21 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133978) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:26 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133980) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=128, dstY=128, width=256, height=128, srcMipWidth=256, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=64, dstY=64, width=128, height=64, srcMipWidth=128, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=32, dstY=32, width=64, height=32, srcMipWidth=64, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=16, dstY=16, width=32, height=16, srcMipWidth=32, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=8, dstY=8, width=16, height=8, srcMipWidth=16, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:27 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=4, dstY=4, width=8, height=4, srcMipWidth=8, srcMipHeight=4, dstMipWidth=8, dstMipHeight=8) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:29 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:32 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133977) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:34 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (133983) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:34 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133987 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:48:34 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133987 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:48:35 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (133987) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:35 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133988) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:39 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=128, dstY=160, width=256, height=128, srcMipWidth=256, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:39 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=64, dstY=80, width=128, height=64, srcMipWidth=128, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:39 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=32, dstY=40, width=64, height=32, srcMipWidth=64, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:39 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=16, dstY=20, width=32, height=16, srcMipWidth=32, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:capes/npc_black_knight_cape_01_sp_spec.dds#c'
+Wed Oct  7 18:48:50 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (133993) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:52 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (133992) is not alive or cannot receive status effects!
+Wed Oct  7 18:48:53 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133992 | effects: (-)Death)!
+Wed Oct  7 18:48:53 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133992 | effects: (-)Death)!
+Wed Oct  7 18:48:57 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:48:57 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:48:57 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:57 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:48:57 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:48:57 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:58 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133997 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:48:58 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 133997 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:48:59 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:48:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:48:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:49:00 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:00 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134000 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:49:00 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134000 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:49:00 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134000) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:03 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (133997) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:04 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134003 | effects: (+)mercenary_viridis_bless_aura_effect_trig)!
+Wed Oct  7 18:49:04 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (134001) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:04 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134003) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:15 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:49:15 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:49:16 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:49:16 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:49:19 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134008) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:22 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134007) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:23 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134012 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:49:23 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134012 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:49:23 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134012) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:27 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134010) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:36 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:36 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:41 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (134014) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134016 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:49:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134016 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:49:44 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134016) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:46 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134018) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:50 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:49:50 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:49:50 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:49:50 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:50 2026 [WARNING] D3D9Texture::CopyRect(): failed because source texture 'systex:system/nobump.dds' has no UsageCpu flag set!
+Wed Oct  7 18:49:56 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134020) is not alive or cannot receive status effects!
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=192, dstY=128, width=128, height=128, srcMipWidth=128, srcMipHeight=128, dstMipWidth=256, dstMipHeight=256) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=96, dstY=64, width=64, height=64, srcMipWidth=64, srcMipHeight=64, dstMipWidth=128, dstMipHeight=128) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=48, dstY=32, width=32, height=32, srcMipWidth=32, srcMipHeight=32, dstMipWidth=64, dstMipHeight=64) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=24, dstY=16, width=16, height=16, srcMipWidth=16, srcMipHeight=16, dstMipWidth=32, dstMipHeight=32) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:49:59 2026 [WARNING] D3D9Texture::CopyRect(): source or texture rectangles too big (srcX=0, srxY=0, dstX=12, dstY=8, width=8, height=8, srcMipWidth=8, srcMipHeight=8, dstMipWidth=16, dstMipHeight=16) in srcText 'tex:armor_mage/mage_gloves_spec.dds#c'
+Wed Oct  7 18:50:01 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134022) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:06 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_viridis (134024) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:12 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134029 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:50:12 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134029 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:50:12 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134029) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:12 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134028) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:14 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134029 | effects: (-)Death)!
+Wed Oct  7 18:50:14 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134029 | effects: (-)Death)!
+Wed Oct  7 18:50:18 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:50:18 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:50:18 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:50:18 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:50:19 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134031) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:40 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134035) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:42 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134039 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:50:42 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134039 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:50:43 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134039) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:45 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134038) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:55 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_shadow_stalker (134041) is not alive or cannot receive status effects!
+Wed Oct  7 18:50:57 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:50:57 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:50:57 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:50:57 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:51:03 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134046 | effects: (+)mercenary_ember_knight_heatmax_aura_effect)!
+Wed Oct  7 18:51:03 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 134046 | effects: (+)mercenary_ember_knight_slag_aura_effect)!
+Wed Oct  7 18:51:04 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ember_knight_kain (134046) is not alive or cannot receive status effects!
+Wed Oct  7 18:51:06 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (134045) is not alive or cannot receive status effects!
+Wed Oct  7 18:51:15 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:51:15 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:51:15 2026 [WARNING] SequenceCache::AquireSequence(): sequence 'statuseffect/seq_fireworks_anniversary_02' could not be aquired!
+Wed Oct  7 18:51:15 2026 [WARNING] Cannot load sequence 'statuseffect/seq_fireworks_anniversary_02' from sequencer cache!
+Wed Oct  7 18:51:17 2026 [WARNING] UISystem::AddWidgetToFocus(): trying to add widget 'BottombarWidget'twice, moving widget to top
+Wed Oct  7 18:51:22 2026 [WARNING] InternalPathEngineServer::Load: loading paths disabled!
+Wed Oct  7 18:51:23 2026 [WARNING] StagingSystem::EventTypeFromString: Invalid event type PlayerFightingCapabilityScoreChanged
+Wed Oct  7 18:51:23 2026 [WARNING] [S4_ICE_DIAG][CLIENT_ENABLED] client bullet diagnostics enabled for minionskill_fp_buff_s4_ice_shot
+Wed Oct  7 18:51:23 2026 [WARNING] Client activity signin manager started
+Wed Oct  7 18:51:24 2026 [WARNING] GamePlayer::OnEquipedItem(): Unhandled case for item category 'Weapon'! Player has unexpected armament state (5)!
+Wed Oct  7 18:51:24 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/general/ui_open_screen" was triggered, but no EventDescription was found for it!
+Wed Oct  7 18:51:25 2026 [WARNING] A signin calendar command created
+Wed Oct  7 18:51:25 2026 [WARNING] ActivitySigninCanlendar decoding
+Wed Oct  7 18:51:25 2026 [WARNING] 1 line(s) of extra bonus receivedWed Oct  7 18:51:25 2026 [WARNING] 
+Wed Oct  7 18:51:25 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket7' is locked
+Wed Oct  7 18:51:25 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket6' is locked
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:25 2026 [WARNING] Pickingrange (0.500000) of entity e_anni_meanie of category StateObject is too small for entity picking box size (860614819840.000000)! 
+Wed Oct  7 18:51:55 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/quickslot/ui_cooldown_consumable" was triggered, but no EventDescription was found for it!
+Wed Oct  7 19:13:59 2026 [WARNING] InteractWidget::ShowExitInfo: unknown ruleset '-1'.
+Wed Oct  7 19:14:04 2026 [WARNING] UISystem::AddWidgetToFocus(): trying to add widget 'BottombarWidget'twice, moving widget to top
+Wed Oct  7 19:14:09 2026 [WARNING] InternalPathEngineServer::Load: loading paths disabled!
+Wed Oct  7 19:14:09 2026 [WARNING] StagingSystem::EventTypeFromString: Invalid event type PlayerFightingCapabilityScoreChanged
+Wed Oct  7 19:14:09 2026 [WARNING] [S4_ICE_DIAG][CLIENT_ENABLED] client bullet diagnostics enabled for minionskill_fp_buff_s4_ice_shot
+Wed Oct  7 19:14:09 2026 [WARNING] Client activity signin manager started
+Wed Oct  7 19:14:11 2026 [WARNING] GamePlayer::OnEquipedItem(): Unhandled case for item category 'Weapon'! Player has unexpected armament state (5)!
+Wed Oct  7 19:14:11 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/general/ui_open_screen" was triggered, but no EventDescription was found for it!
+Wed Oct  7 19:14:11 2026 [WARNING] A signin calendar command created
+Wed Oct  7 19:14:11 2026 [WARNING] ActivitySigninCanlendar decoding
+Wed Oct  7 19:14:11 2026 [WARNING] 1 line(s) of extra bonus receivedWed Oct  7 19:14:11 2026 [WARNING] 
+Wed Oct  7 19:14:11 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket7' is locked
+Wed Oct  7 19:14:11 2026 [WARNING] InventoryWidget::AddItemInEquipmentAt(): equipment slot 'RuneTrinket6' is locked
+Wed Oct  7 19:14:13 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:14 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/ui/quickslot/ui_activate_skill" was triggered, but no EventDescription was found for it!
+Wed Oct  7 19:14:16 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:19 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:21 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:24 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:27 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:30 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:32 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:35 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:38 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:41 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:44 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:47 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:49 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:52 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:55 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:14:58 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:00 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:03 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:06 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:09 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:12 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:14 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:17 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:20 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:23 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:26 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:28 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:31 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:34 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:37 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:40 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:42 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:45 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:48 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:51 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:54 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:56 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:15:59 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:02 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:05 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:08 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:10 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:13 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:16 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:19 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:22 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:24 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:27 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:30 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:33 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:36 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:38 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:41 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:44 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:47 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:50 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:52 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:55 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:16:58 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:01 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:04 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:06 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:09 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:12 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:15 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:18 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:21 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:23 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:26 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:29 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:32 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:34 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:37 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:40 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:43 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:46 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:48 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:51 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:54 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:17:57 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:00 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:03 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:05 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:08 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:11 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:14 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:16 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:19 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:22 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:25 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:28 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:30 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:33 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:36 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:39 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:42 2026 [WARNING] ShaderVariableBuffer: Shader 'refraction' has no parameter 'Intensity0'!
+Wed Oct  7 19:18:43 2026 [WARNING] GameWorld::HandleBeginDeath: Victim Fierce (65537) is not alive or cannot receive status effects!
+Wed Oct  7 19:18:43 2026 [WARNING] [FMOD_COREAUDIO WARNING] event: "event:/music/jingles/music_jingle_player_death" was triggered, but no EventDescription was found for it!
+Wed Oct  7 19:18:43 2026 [WARNING] GameWorld::HandleBeginDeath: Victim mercenary_ancient_watcher (65538) is not alive or cannot receive status effects!
+Wed Oct  7 19:18:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 65538 | effects: (-)Death)!
+Wed Oct  7 19:18:44 2026 [WARNING] Received StatusEffectCommand for unknown actor (id: 65538 | effects: (-)Death)!

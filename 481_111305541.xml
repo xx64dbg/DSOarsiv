@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Settings>
+    <ShownContextualInfo>
+        <stickerbook_ui_button_highlight />
+        <stickerbook_ui_button_hint_arrow />
+        <a0200kingscity_wisdom_bank_hint />
+        <a0200_tutorial_questtype_event />
+        <event_window_button_hint_window />
+        <event_window_button_highlight />
+        <stickerbook_ui_tutorial />
+        <currencybag_ui_observe_currency_hint />
+        <transmogrification_window_skin_tab />
+        <transmogrification_window_color_tab />
+        <a0001_tutorial_skills_talent />
+        <a0200kingscity_wisdom_mount_hint />
+        <a0006_tutorial_recall_explUI />
+        <a0006_tutorial_questlog_explUI />
+        <a0006_speech_priest_01 />
+        <a0006_tutorial_multiplayer_main />
+        <a0006_speech_mary_01 />
+    </ShownContextualInfo>
+    <ActiveQuestWidget compact="false" quest="pw203-the-demon-lord-01-n" />
+    <GroupWidget compact="false" />
+    <QuestGuidance quest="" task="0" />
+    <Autoplay useHealthPotion="true" healthPotionThreshold="0.350000" recallIfOutOfPotion="true" autoPickupEnabled="true" minPickupRarity="1" pickupEquipmentItems="true" pickupQuestItems="true" pickupEventItems="true" pickupGems="true" pickupOtherItems="true" reviveEnabled="true" reviveType="0" reviveStopEnabled="false" reviveStopAfterTimes="5" recallIfEquipBroken="true" />
+    <GauntletSeason startId="25" endId="25" />
+    <BottomBarWidget quickbaridx="0" />
+    <MapAccessDifficulty difficulty="2" />
+    <CurrencyDisplay currency="" />
+</Settings>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Settings>
+    <Graphics shadows="true" shadowquality="0" highdetail="true" fullscreenUpscaling="false" ssao="false" ssaostrength="1.300000" ssaorange="0.400000" pe_saturation="0.500000" pe_brightness="0.500000" pe_gamma="0.500000" enableShowGuiSwitch="false" enableShowOverheadTextSwitch="false" goreEnabled="true" frameRateWarning="false" equipmentfx="0" />
+    <Gameplay combatText="true" chatModeFull="false" chatBubbleEnabled="false" intelligentMoveDirection="false" profanityFilterEnabled="true" showOwnCharacterName="false" tutorial="true" questGuidance="true" newEquipmentNotifications="true" essenceAutoEquipEnabled="false" inventoryAutoSortEnabled="true" locationmap="1" disableGroupingRequests="false" autoAcceptAllGroupingRequests="false" enableFriendStatusMessage="false" enableGuildMemberStatusMessage="false" displayLatencyIndicator="true" gauntletInfoCollapsed="false" cooldownVisualization="2" groupModifierAudio="false" exitDialogAppearance="0" tooltipSetting="1" charsheetTooltipSetting="1" showMonsterHP="true" />
+    <Audio enabled="true" effectVolume="0.000000" musicVolume="0.000000" languageVolume="1.000000" masterVolume="0.008304" />
+    <Cursor classiccursor="true" cursorcolor="2" />
+    <IgnoredDialogs />
+    <Controls>
+        <action name="QuickSlot1" key="Key1" />
+        <action name="QuickSlot2" key="Key2" />
+        <action name="QuickSlot3" key="Key3" />
+        <action name="QuickSlot4" key="Key4" />
+        <action name="QuickSlot5" key="Key5" />
+        <action name="SwapTabSkill" key="Tab" />
+        <action name="InventoryWidget" key="I" />
+        <action name="SkillWidget" key="S" />
+        <action name="LeaderBoardWidget" key="L" />
+        <action name="EventProgressWidget" key="E" />
+        <action name="CharSheetWidget" key="C" />
+        <action name="QuestLogWidget" key="Q" />
+        <action name="TradeWidget" key="T" />
+        <action name="StickerbookWidget" key="W" />
+        <action name="LocationMap" key="M" />
+        <action name="SocialWidget" key="F" />
+        <action name="GroupWidget" key="B" />
+        <action name="PvPScreen" key="J" />
+        <action name="ToggleChatWidget" key="V" />
+        <action name="CancelAction" key="Escape" />
+        <action name="Autoplay" key="Z" />
+        <action name="QuickMount" key="O" />
+        <action name="SwapAmmo" key="X" />
+        <action name="QuickSkillResource" key="D" />
+        <action name="QuickSkillResource2" key="U" />
+        <action name="QuickHealth" key="H" />
+        <action name="QuickHealth2" key="R" />
+        <action name="QuickTeleport" key="P" />
+        <action name="QuickBarSwitchUp" key="F1" />
+        <action name="QuickBarSwitchDown" key="F2" />
+        <action name="Quickbar1" key="InvalidKey" />
+        <action name="Quickbar2" key="InvalidKey" />
+        <action name="Quickbar3" key="InvalidKey" />
+        <action name="Quickbar4" key="InvalidKey" />
+        <action name="Quickbar5" key="InvalidKey" />
+        <action name="Quickbar6" key="InvalidKey" />
+        <action name="Quickbar7" key="InvalidKey" />
+        <action name="Quickbar8" key="InvalidKey" />
+        <action name="Quickbar9" key="InvalidKey" />
+        <action name="Quickbar10" key="InvalidKey" />
+        <action name="HighlightMouseCursor" key="Space" />
+        <action name="TooltipToggle" key="Y" />
+        <action name="RingTooltipToggle" key="Menu" />
+        <action name="QuickMercenary" key="K" />
+    </Controls>
+</Settings>

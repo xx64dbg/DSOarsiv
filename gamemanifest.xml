@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameClientManifest>
+    <File name="app.n3app.nz2" size="3692155" md5="09da75bff2ab4db461d34584d98743c4" />
+    <File name="d3dx9_43.dll.nz2" size="705237" md5="751fa80015f379f7b67c2a6b3228b5ec" />
+    <File name="fmodstudio.dll.nz2" size="313529" md5="2cbb9cae9417dc33caa12880c2fd6736" />
+    <File name="fmod.dll.nz2" size="551420" md5="fa1bdb5472e5fb5f2386c160964f3fe6" />
+    <File name="app64.n3app.nz2" size="4928558" md5="a0c105f6d53580f710ae037551048847" />
+    <File name="d3dx9_43_64.dll.nz2" size="834778" md5="ac5a557b4944d68dfabf69a3e63776c5" />
+    <File name="fmodstudio64.dll.nz2" size="404800" md5="5ba6e209fd3cb594cb0ae825b9b60766" />
+    <File name="fmod64.dll.nz2" size="621690" md5="e28778d1aacb2576e541ff7cf5a7cf95" />
+    <DeployInfo deploySize="2166166433" requiredSize="105536640" forceRequiredPreload="true" />
+</GameClientManifest>
